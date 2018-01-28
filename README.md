@@ -1,2 +1,2 @@
-# The-Transmission
-Game made for Global Game Jam 2018 at UCCS!
+# JSJam-Framework
+JSJ Framework rebuilt for easier prototypes.
